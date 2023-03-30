@@ -1,0 +1,12 @@
+{
+    "s1": {
+        "name": "James",
+        "age": 19,
+        "gpa": 3.5
+    },
+    "s2": {
+        "name": "Isabella",
+        "age": 23,
+        "gpa": 3.8
+    }
+}

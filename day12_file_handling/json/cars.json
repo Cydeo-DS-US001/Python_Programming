@@ -1,0 +1,20 @@
+{
+    "cars": [
+        {
+            "make": "BMW",
+            "model": "X5"
+        },
+        {
+            "make": "Audi",
+            "model": "Q6"
+        },
+        {
+            "make": "Tesla",
+            "model": "Model-Y"
+        },
+        {
+            "make": "Lexus",
+            "model": "RX450"
+        }
+    ]
+}

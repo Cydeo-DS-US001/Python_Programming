@@ -1,0 +1,20 @@
+{
+    "A01":{
+      "name": "Aaron",
+      "gender": "Male",
+      "age": 48,
+      "job_title": "Software Developer",
+      "salary": 120000,
+      "full_time": false
+    },
+
+    "A02": {
+      "name": "Yulia",
+      "gender": "Female",
+      "age": 35,
+      "job_title": "Data Analyst",
+      "salary": 130000,
+      "full_time": true
+    }
+
+}
